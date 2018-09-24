@@ -19,3 +19,4 @@ __export(require("./splashscreen"));
 __export(require("./statusbar"));
 __export(require("./stripe"));
 __export(require("./vibration"));
+__export(require("./screen-orientation"));

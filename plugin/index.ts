@@ -14,3 +14,4 @@ export * from './splashscreen';
 export * from './statusbar';
 export * from './stripe';
 export * from './vibration';
+export * from './screen-orientation';
