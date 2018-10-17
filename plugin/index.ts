@@ -1,4 +1,5 @@
 export * from './battery-status';
+
 export * from './camera';
 export * from './device';
 export * from './device-motion';
@@ -15,3 +16,6 @@ export * from './statusbar';
 export * from './stripe';
 export * from './vibration';
 export * from './screen-orientation';
+export * from './fingerprintAIO';
+export * from './secure-storage';
+export * from './email-composer';
